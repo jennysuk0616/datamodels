@@ -1,0 +1,1 @@
+I chose the data product Redis, and its website is https://redis.io/. It is an open source tool. Its database type is No-SQL or non-relational. It is stored in the Cloud. Java or Python can access it through Windows and Linux operating systems. To connect it to Java or Python, we can use the Redis cluster to download the necessary software package. 
