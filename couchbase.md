@@ -1,0 +1,1 @@
+I chose the data product Couchbase, and its website is https://www.couchbase.com/. It is an open source tool. Its database type is No-SQL. It is hosted on the Cloud. It can pair with Windows and Linux operating systems. One can access Couchbase to Java or Python by connecting it to a bucket. 
