@@ -1,0 +1,1 @@
+I chose the data product MariaDB, and its website is https://mariadb.org/. It is an open source tool. It is a relational database. It is hosted on the Cloud. It can pair with Mac, Unix, Linux, and Windows operating systems. One can connect MariaDB to Python by using the MySQL Python Package or the MariaDB Connector/Python. MariaDB also provides Python support. 
