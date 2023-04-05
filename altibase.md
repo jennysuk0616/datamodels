@@ -1,0 +1,1 @@
+I chose the data product Altibase, and its website is https://altibase.com/en/index.php. It is a hybrid open source relational database database that works as both an in-memory database and on-disk database. It utilizes a client/server hosting model. There are two ways to access Altibase through Python, which are the ODBC and JDBC methods.
