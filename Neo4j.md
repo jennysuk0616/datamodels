@@ -1,0 +1,1 @@
+I chose the data product Neo4j, and its website is https://neo4j.com/. It is an open source tool. Its database type is a graph database. It is hosted on the Cloud. It is coded in Java, and can pair with Windows and Linux/Unix operating systems. One can simply install the Neo4j desktop on Python or Java to access it.  
